@@ -9,6 +9,6 @@ src.each do |src_array|
   end
 end
 
-puts new_string
+p new_string
 end
   
